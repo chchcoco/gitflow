@@ -1,3 +1,5 @@
-gitflow 사용법 연습중
+gitflow 사용법 연습 중
 develop push
 	feature/TabComment
+release test
+2
