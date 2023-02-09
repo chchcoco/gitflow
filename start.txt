@@ -1,3 +1,4 @@
 gitflow 사용법 연습중
 develop push
 	feature/TabComment
+release test
